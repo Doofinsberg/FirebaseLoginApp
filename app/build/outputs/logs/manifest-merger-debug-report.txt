@@ -1,0 +1,241 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\aditya\Desktop\FirebaseLoginApp\FirebaseLoginApp\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\aditya\Desktop\FirebaseLoginApp\FirebaseLoginApp\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\aditya\Desktop\FirebaseLoginApp\FirebaseLoginApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\aditya\Desktop\FirebaseLoginApp\FirebaseLoginApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\aditya\Desktop\FirebaseLoginApp\FirebaseLoginApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\aditya\Desktop\FirebaseLoginApp\FirebaseLoginApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\aditya\Desktop\FirebaseLoginApp\FirebaseLoginApp\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\aditya\Desktop\FirebaseLoginApp\FirebaseLoginApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\aditya\Desktop\FirebaseLoginApp\FirebaseLoginApp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\aditya\Desktop\FirebaseLoginApp\FirebaseLoginApp\app\src\main\AndroidManifest.xml:5:5-66
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\aditya\.android\build-cache\cafd3abcc6e0fedf5c84a84a96d256652f250066\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] C:\Users\aditya\.android\build-cache\7a76e314ba1063a202c3b98fb679eb260f4db9e9\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\aditya\.android\build-cache\c1f4b16b49fec5f184a72a22f802e176c81ec279\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from C:\Users\aditya\Desktop\FirebaseLoginApp\FirebaseLoginApp\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\aditya\Desktop\FirebaseLoginApp\FirebaseLoginApp\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\aditya\.android\build-cache\ec8803df2a7add29f175af4e1e7c77af90fb99b1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\aditya\.android\build-cache\9b4fd48849b822c47bd150eaf2f1607c1e0f96e3\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\aditya\.android\build-cache\a4322db1110c81e2193275225c97bdf3307892fb\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\aditya\.android\build-cache\e7447d6ff393af6806d21f4b304728b61dddbbec\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:9.0.2] C:\Users\aditya\.android\build-cache\6d44866335f5f07e45a541d638abe29ff7e8c2a5\output\AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth-common:9.0.2] C:\Users\aditya\.android\build-cache\4d2ab119cabb84f24f602e0f4fa68a4df0e51b62\output\AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-core:9.0.2] C:\Users\aditya\.android\build-cache\034055dbb15ce0c28d41cc845370fa4a02ae1d2a\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\aditya\.android\build-cache\cafd3abcc6e0fedf5c84a84a96d256652f250066\output\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] C:\Users\aditya\.android\build-cache\7a76e314ba1063a202c3b98fb679eb260f4db9e9\output\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\aditya\.android\build-cache\b735083b2d3ad647855f1d77857e76d8289da646\output\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\aditya\.android\build-cache\c1f4b16b49fec5f184a72a22f802e176c81ec279\output\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\aditya\.android\build-cache\b0d1cd57753177784f3c4e030903095b3e47d0fb\output\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\aditya\.android\build-cache\284933eacd48d840ed285cf219b85dcfccc26158\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\aditya\.android\build-cache\d440e0959c7eb2ef28c44c2f6bc4e0b3ca040ac9\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\aditya\.android\build-cache\b465b209bd12c44601aa94d6f8f1aeebb9eab0ef\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\aditya\.android\build-cache\1c61cea17f9cf58c54ee9653caf706c269327a93\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\aditya\.android\build-cache\61a81104d70c34721b235bd9f02f6a3568a23da6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\aditya\.android\build-cache\0033b6efaf9bb6371615d90c676b0bd8d064066e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\aditya\.android\build-cache\7bdff7269163464396557445bb5fbc43eef27634\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\aditya\.android\build-cache\d1d1a979329eeffdaaa650794d69c91a347909b3\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\aditya\Desktop\FirebaseLoginApp\FirebaseLoginApp\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from C:\Users\aditya\Desktop\FirebaseLoginApp\FirebaseLoginApp\app\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from C:\Users\aditya\Desktop\FirebaseLoginApp\FirebaseLoginApp\app\src\main\AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from C:\Users\aditya\Desktop\FirebaseLoginApp\FirebaseLoginApp\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from C:\Users\aditya\Desktop\FirebaseLoginApp\FirebaseLoginApp\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from C:\Users\aditya\Desktop\FirebaseLoginApp\FirebaseLoginApp\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.firebaseloginapp.AccountActivity.LoginActivity
+ADDED from C:\Users\aditya\Desktop\FirebaseLoginApp\FirebaseLoginApp\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\aditya\Desktop\FirebaseLoginApp\FirebaseLoginApp\app\src\main\AndroidManifest.xml:14:19-64
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\aditya\Desktop\FirebaseLoginApp\FirebaseLoginApp\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\aditya\Desktop\FirebaseLoginApp\FirebaseLoginApp\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\aditya\Desktop\FirebaseLoginApp\FirebaseLoginApp\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\aditya\Desktop\FirebaseLoginApp\FirebaseLoginApp\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\aditya\Desktop\FirebaseLoginApp\FirebaseLoginApp\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.firebaseloginapp.AccountActivity.MainActivity
+ADDED from C:\Users\aditya\Desktop\FirebaseLoginApp\FirebaseLoginApp\app\src\main\AndroidManifest.xml:21:9-66
+	android:name
+		ADDED from C:\Users\aditya\Desktop\FirebaseLoginApp\FirebaseLoginApp\app\src\main\AndroidManifest.xml:21:19-63
+activity#com.firebaseloginapp.AccountActivity.SignupActivity
+ADDED from C:\Users\aditya\Desktop\FirebaseLoginApp\FirebaseLoginApp\app\src\main\AndroidManifest.xml:22:9-68
+	android:name
+		ADDED from C:\Users\aditya\Desktop\FirebaseLoginApp\FirebaseLoginApp\app\src\main\AndroidManifest.xml:22:19-65
+activity#com.firebaseloginapp.AccountActivity.ResetPasswordActivity
+ADDED from C:\Users\aditya\Desktop\FirebaseLoginApp\FirebaseLoginApp\app\src\main\AndroidManifest.xml:23:9-84
+	android:name
+		ADDED from C:\Users\aditya\Desktop\FirebaseLoginApp\FirebaseLoginApp\app\src\main\AndroidManifest.xml:23:19-72
+uses-sdk
+INJECTED from C:\Users\aditya\Desktop\FirebaseLoginApp\FirebaseLoginApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\aditya\.android\build-cache\ec8803df2a7add29f175af4e1e7c77af90fb99b1\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\aditya\.android\build-cache\9b4fd48849b822c47bd150eaf2f1607c1e0f96e3\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\aditya\.android\build-cache\a4322db1110c81e2193275225c97bdf3307892fb\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\aditya\.android\build-cache\e7447d6ff393af6806d21f4b304728b61dddbbec\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:9.0.2] C:\Users\aditya\.android\build-cache\6d44866335f5f07e45a541d638abe29ff7e8c2a5\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.0.2] C:\Users\aditya\.android\build-cache\4d2ab119cabb84f24f602e0f4fa68a4df0e51b62\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.0.2] C:\Users\aditya\.android\build-cache\6d211670b97ec1b74470eb2155626a1bab813eb0\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:9.0.2] C:\Users\aditya\.android\build-cache\034055dbb15ce0c28d41cc845370fa4a02ae1d2a\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\aditya\.android\build-cache\cafd3abcc6e0fedf5c84a84a96d256652f250066\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] C:\Users\aditya\.android\build-cache\7a76e314ba1063a202c3b98fb679eb260f4db9e9\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\aditya\.android\build-cache\b735083b2d3ad647855f1d77857e76d8289da646\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\aditya\.android\build-cache\c1f4b16b49fec5f184a72a22f802e176c81ec279\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\aditya\.android\build-cache\b0d1cd57753177784f3c4e030903095b3e47d0fb\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\aditya\.android\build-cache\284933eacd48d840ed285cf219b85dcfccc26158\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\aditya\.android\build-cache\d440e0959c7eb2ef28c44c2f6bc4e0b3ca040ac9\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\aditya\.android\build-cache\b465b209bd12c44601aa94d6f8f1aeebb9eab0ef\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\aditya\.android\build-cache\1c61cea17f9cf58c54ee9653caf706c269327a93\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\aditya\.android\build-cache\61a81104d70c34721b235bd9f02f6a3568a23da6\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\aditya\.android\build-cache\0033b6efaf9bb6371615d90c676b0bd8d064066e\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\aditya\.android\build-cache\7bdff7269163464396557445bb5fbc43eef27634\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\aditya\.android\build-cache\d1d1a979329eeffdaaa650794d69c91a347909b3\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\aditya\.android\build-cache\ec8803df2a7add29f175af4e1e7c77af90fb99b1\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\aditya\Desktop\FirebaseLoginApp\FirebaseLoginApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\aditya\Desktop\FirebaseLoginApp\FirebaseLoginApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\aditya\Desktop\FirebaseLoginApp\FirebaseLoginApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\aditya\Desktop\FirebaseLoginApp\FirebaseLoginApp\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\aditya\.android\build-cache\ec8803df2a7add29f175af4e1e7c77af90fb99b1\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\aditya\.android\build-cache\9b4fd48849b822c47bd150eaf2f1607c1e0f96e3\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\aditya\.android\build-cache\a4322db1110c81e2193275225c97bdf3307892fb\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\aditya\.android\build-cache\b465b209bd12c44601aa94d6f8f1aeebb9eab0ef\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\aditya\.android\build-cache\1c61cea17f9cf58c54ee9653caf706c269327a93\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\aditya\.android\build-cache\61a81104d70c34721b235bd9f02f6a3568a23da6\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\aditya\.android\build-cache\0033b6efaf9bb6371615d90c676b0bd8d064066e\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\aditya\.android\build-cache\7bdff7269163464396557445bb5fbc43eef27634\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\aditya\.android\build-cache\d1d1a979329eeffdaaa650794d69c91a347909b3\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\aditya\.android\build-cache\ec8803df2a7add29f175af4e1e7c77af90fb99b1\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\aditya\.android\build-cache\ec8803df2a7add29f175af4e1e7c77af90fb99b1\output\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\aditya\.android\build-cache\cafd3abcc6e0fedf5c84a84a96d256652f250066\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] C:\Users\aditya\.android\build-cache\7a76e314ba1063a202c3b98fb679eb260f4db9e9\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\aditya\.android\build-cache\c1f4b16b49fec5f184a72a22f802e176c81ec279\output\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\aditya\.android\build-cache\cafd3abcc6e0fedf5c84a84a96d256652f250066\output\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\aditya\.android\build-cache\cafd3abcc6e0fedf5c84a84a96d256652f250066\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] C:\Users\aditya\.android\build-cache\7a76e314ba1063a202c3b98fb679eb260f4db9e9\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\aditya\.android\build-cache\c1f4b16b49fec5f184a72a22f802e176c81ec279\output\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\aditya\.android\build-cache\cafd3abcc6e0fedf5c84a84a96d256652f250066\output\AndroidManifest.xml:24:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\aditya\.android\build-cache\cafd3abcc6e0fedf5c84a84a96d256652f250066\output\AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] C:\Users\aditya\.android\build-cache\7a76e314ba1063a202c3b98fb679eb260f4db9e9\output\AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\aditya\.android\build-cache\cafd3abcc6e0fedf5c84a84a96d256652f250066\output\AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\aditya\.android\build-cache\cafd3abcc6e0fedf5c84a84a96d256652f250066\output\AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\aditya\.android\build-cache\cafd3abcc6e0fedf5c84a84a96d256652f250066\output\AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\aditya\.android\build-cache\cafd3abcc6e0fedf5c84a84a96d256652f250066\output\AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\aditya\.android\build-cache\cafd3abcc6e0fedf5c84a84a96d256652f250066\output\AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\aditya\.android\build-cache\cafd3abcc6e0fedf5c84a84a96d256652f250066\output\AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] C:\Users\aditya\.android\build-cache\7a76e314ba1063a202c3b98fb679eb260f4db9e9\output\AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\aditya\.android\build-cache\cafd3abcc6e0fedf5c84a84a96d256652f250066\output\AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\aditya\.android\build-cache\cafd3abcc6e0fedf5c84a84a96d256652f250066\output\AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\aditya\.android\build-cache\cafd3abcc6e0fedf5c84a84a96d256652f250066\output\AndroidManifest.xml:37:11-82
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\aditya\.android\build-cache\b735083b2d3ad647855f1d77857e76d8289da646\output\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\aditya\.android\build-cache\b735083b2d3ad647855f1d77857e76d8289da646\output\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\aditya\.android\build-cache\b735083b2d3ad647855f1d77857e76d8289da646\output\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\aditya\.android\build-cache\b735083b2d3ad647855f1d77857e76d8289da646\output\AndroidManifest.xml:20:19-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\aditya\.android\build-cache\c1f4b16b49fec5f184a72a22f802e176c81ec279\output\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\aditya\.android\build-cache\c1f4b16b49fec5f184a72a22f802e176c81ec279\output\AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\aditya\.android\build-cache\c1f4b16b49fec5f184a72a22f802e176c81ec279\output\AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\aditya\.android\build-cache\c1f4b16b49fec5f184a72a22f802e176c81ec279\output\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\aditya\.android\build-cache\c1f4b16b49fec5f184a72a22f802e176c81ec279\output\AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\aditya\.android\build-cache\c1f4b16b49fec5f184a72a22f802e176c81ec279\output\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\aditya\.android\build-cache\c1f4b16b49fec5f184a72a22f802e176c81ec279\output\AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\aditya\.android\build-cache\c1f4b16b49fec5f184a72a22f802e176c81ec279\output\AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\aditya\.android\build-cache\c1f4b16b49fec5f184a72a22f802e176c81ec279\output\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\aditya\.android\build-cache\c1f4b16b49fec5f184a72a22f802e176c81ec279\output\AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\aditya\.android\build-cache\c1f4b16b49fec5f184a72a22f802e176c81ec279\output\AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\aditya\.android\build-cache\c1f4b16b49fec5f184a72a22f802e176c81ec279\output\AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\aditya\.android\build-cache\c1f4b16b49fec5f184a72a22f802e176c81ec279\output\AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\aditya\.android\build-cache\c1f4b16b49fec5f184a72a22f802e176c81ec279\output\AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\aditya\.android\build-cache\c1f4b16b49fec5f184a72a22f802e176c81ec279\output\AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\aditya\.android\build-cache\c1f4b16b49fec5f184a72a22f802e176c81ec279\output\AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\aditya\.android\build-cache\c1f4b16b49fec5f184a72a22f802e176c81ec279\output\AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\aditya\.android\build-cache\c1f4b16b49fec5f184a72a22f802e176c81ec279\output\AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\aditya\.android\build-cache\c1f4b16b49fec5f184a72a22f802e176c81ec279\output\AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\aditya\.android\build-cache\c1f4b16b49fec5f184a72a22f802e176c81ec279\output\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\aditya\.android\build-cache\c1f4b16b49fec5f184a72a22f802e176c81ec279\output\AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\aditya\.android\build-cache\c1f4b16b49fec5f184a72a22f802e176c81ec279\output\AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\aditya\.android\build-cache\c1f4b16b49fec5f184a72a22f802e176c81ec279\output\AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\aditya\.android\build-cache\c1f4b16b49fec5f184a72a22f802e176c81ec279\output\AndroidManifest.xml:52:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\aditya\.android\build-cache\c1f4b16b49fec5f184a72a22f802e176c81ec279\output\AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\aditya\.android\build-cache\c1f4b16b49fec5f184a72a22f802e176c81ec279\output\AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\aditya\.android\build-cache\c1f4b16b49fec5f184a72a22f802e176c81ec279\output\AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\aditya\.android\build-cache\c1f4b16b49fec5f184a72a22f802e176c81ec279\output\AndroidManifest.xml:55:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Users\aditya\.android\build-cache\b0d1cd57753177784f3c4e030903095b3e47d0fb\output\AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Users\aditya\.android\build-cache\b0d1cd57753177784f3c4e030903095b3e47d0fb\output\AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Users\aditya\.android\build-cache\b0d1cd57753177784f3c4e030903095b3e47d0fb\output\AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Users\aditya\.android\build-cache\b0d1cd57753177784f3c4e030903095b3e47d0fb\output\AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Users\aditya\.android\build-cache\b0d1cd57753177784f3c4e030903095b3e47d0fb\output\AndroidManifest.xml:9:13-58
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\aditya\.android\build-cache\d440e0959c7eb2ef28c44c2f6bc4e0b3ca040ac9\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\aditya\.android\build-cache\d440e0959c7eb2ef28c44c2f6bc4e0b3ca040ac9\output\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\aditya\.android\build-cache\d440e0959c7eb2ef28c44c2f6bc4e0b3ca040ac9\output\AndroidManifest.xml:22:13-58
